@@ -7,7 +7,7 @@ I am a double-degree student in Physics and Mathematics, passionate about bridgi
 ---
 
 ### 🔭 What I'm currently working on
-* **Physics Thesis:** Simulating the interaction between a superconducting qubit and classical microwave control pulses using **QuTiP** and the Lindblad Master Equation.
+* **Physics Thesis:** Investigating the classical limit of quantum systems to efficiently approximate their behavior using the Koopman and extended phase space formalisms. The research focuses on modeling classical-quantum hybrid systems via analytical techniques and symbolic computation in **Python**.
 * **Math Research:** Exploring Differential Geometry and Lie Algebras using **SageMath**.
 * **Upcoming:** Competing at the International Mathematics Competition (IMC) 2026 in Bulgaria.
 
